@@ -3,9 +3,11 @@
 Welcome to my Github. My name is Deji. I am a Fullstack Software Engineer specialised in UI/Frontend development (because I love programming and visual arts).
 
   [Personal Website](https://www.dejiadedoyin.com)
+  <br/>
   [LinkedIn](https://www.linkedin.com/in/dejiadedoyin/)
 
   📫 How to reach me:  deji.adedoyin@outlook.com
+  <br/>
   ⚡ Fun fact:  I play the guitar
 
 <!--
