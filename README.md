@@ -6,7 +6,7 @@ Welcome to my Github. My name is Deji. I am a Fullstack Software Engineer specia
   <br/>
   [LinkedIn](https://www.linkedin.com/in/dejiadedoyin/)
 
-  📫 How to reach me:  deji.adedoyin@outlook.com
+  📫 How to reach me:  adedejioadedoyin@gmail.com
   <br/>
   ⚡ Fun fact:  I play the guitar
 
